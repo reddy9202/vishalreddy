@@ -1,2 +1,2 @@
-def fun_1();
-print("Hello World")
+def fun_1():
+    print("Hello World")
